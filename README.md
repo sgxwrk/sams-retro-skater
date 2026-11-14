@@ -20,7 +20,7 @@ Keep rolling. 🛹
 Or as a dependency (for example from another site):
 
 ```bash
-npm i github:sgxwrk/sams-retro-skater#v1.0.0
+npm i github:sgxwrk/sams-retro-skater#v1.0.1
 ```
 
 ```js
