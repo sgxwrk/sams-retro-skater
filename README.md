@@ -2,7 +2,7 @@
 
 Pixel-art skater endless runner as a **dependency-free web component**. No build step, no framework. The longer you survive, the faster it gets, and the weather turns from sun to snow to thunderstorm.
 
-**Play it:** enable GitHub Pages for this repo (Settings → Pages → Deploy from branch `main` / root) and open the page.
+**Play it:** https://sgxwrk.github.io/sams-retro-skater/ (once GitHub Pages is enabled: Settings → Pages → Deploy from branch `main` / root).
 
 ## Use it
 
@@ -14,7 +14,7 @@ Pixel-art skater endless runner as a **dependency-free web component**. No build
 Or as a dependency (for example from another site):
 
 ```bash
-npm i github:<your-user>/sams-retro-skater#v1.0.0
+npm i github:sgxwrk/sams-retro-skater#v1.0.0
 ```
 
 ```js
