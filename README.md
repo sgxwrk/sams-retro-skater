@@ -1,5 +1,7 @@
 # Sam’s Retro Skater
 
+![Sam’s Retro Skater: a pixel-art skater on a black field with a sun and clouds, “Ready?” in the middle](docs/screenshot.png)
+
 Pixel-art skater endless runner as a **dependency-free web component**. No build step, no framework. The longer you survive, the faster it gets, and the weather turns from sun to snow to thunderstorm.
 
 **Play it:** https://sgxwrk.github.io/sams-retro-skater/ (once GitHub Pages is enabled: Settings → Pages → Deploy from branch `main` / root).
