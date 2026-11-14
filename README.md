@@ -4,6 +4,12 @@ Pixel-art skater endless runner as a **dependency-free web component**. No build
 
 **Play it:** https://sgxwrk.github.io/sams-retro-skater/ (once GitHub Pages is enabled: Settings → Pages → Deploy from branch `main` / root).
 
+## The story behind it
+
+This little runner started as a side quest during my portfolio facelift. I wanted error pages and other quiet corners of the site to feel a bit more playful, so instead of a dead-end 404 you get a skater rolling through the weather. One small idea led to another, and it ended up as its own little project.
+
+Keep rolling. 🛹
+
 ## Use it
 
 ```html
