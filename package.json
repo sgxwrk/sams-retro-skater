@@ -1,0 +1,15 @@
+{
+  "name": "sams-retro-skater",
+  "version": "1.0.0",
+  "description": "A pixel-art skater endless runner as a dependency-free web component. Weather changes with your score.",
+  "type": "module",
+  "main": "src/runner-game.js",
+  "exports": {
+    ".": "./src/runner-game.js",
+    "./fonts/*": "./fonts/*"
+  },
+  "files": ["src", "fonts", "README.md", "LICENSE"],
+  "keywords": ["game", "web-component", "endless-runner", "pixel-art", "canvas"],
+  "license": "MIT",
+  "sideEffects": ["./src/runner-game.js"]
+}
